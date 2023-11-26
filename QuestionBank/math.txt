@@ -1,0 +1,18 @@
+Question: 6+6 1
+Answer: 12
+
+Question: 5+5 1
+Answer: 10
+
+Question: 8*8 1
+Answer: 64
+
+Question: 9*8 1
+Answer: 72
+
+Question: 11*11 1
+Answer: 121
+
+Question: 5+5 1
+Answer: 10
+

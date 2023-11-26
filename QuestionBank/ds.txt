@@ -1,0 +1,6 @@
+Question: ((a,b),c,d)的head是什么 2
+Answer: （a,b）
+
+Question: ((a,b),c,d)的tail是什么 2
+Answer: （c,d）
+
